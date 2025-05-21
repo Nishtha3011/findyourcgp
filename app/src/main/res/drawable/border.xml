@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Background color (white) -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Rounded corners -->
+    <corners android:radius="16dp" />
+
+    <!-- Purple border -->
+    <stroke
+        android:width="2dp"
+        android:color="#673AB7" /> <!-- You can also use #9C27B0 for Material Purple -->
+
+</shape>
